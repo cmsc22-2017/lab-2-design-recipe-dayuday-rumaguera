@@ -23,12 +23,10 @@ class Personnn {
   /*
    
    FIELDS:
-   ... this.name ...
-   ... this.pet ...
-   ... this.age ...
+   ... this.age ...  --int
    
    METHODS:
-   ... this.isOlder ...
+   ... this.isOlder ...  --boolean
    
    */
   
