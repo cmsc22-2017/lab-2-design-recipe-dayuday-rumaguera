@@ -81,9 +81,6 @@ class Personnn {
   Personnn perish(){
   	return new Personnn(this.name, new NoPet(), this.age);
   }
- 
- 
-  
 }
 
 class NoPet implements IPet{
