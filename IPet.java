@@ -27,11 +27,11 @@ class Personnn {
   /*
    
    FIELDS:
-   ... this.age ...  --int
-   ... this.pet ...  --IPet
-   ... this.name ... --String
+   ... this.age ...  		  --int
+   ... this.pet ...               --IPet
+   ... this.name ...              --String
    METHODS:
-   ... this.isOlder() ...  				--boolean
+   ... this.isOlder() ...  	  --boolean
    ... this.sameNamePet() ...     --boolean
    */
   
@@ -51,7 +51,7 @@ class Personnn {
    	... this.sameNamePet() ...     --boolean
    	
    METHODS on pet:
-    ... this.checkName() ...			 --boolean
+    ... this.checkName() ...	       --boolean
  */
 
   
@@ -72,7 +72,7 @@ class Personnn {
    METHODS:
    	... this.isOlder() ...         --boolean
    	... this.sameNamePet() ...     --boolean
-   	... this.perish() ... 				 --Personnn
+   	... this.perish() ... 	       --Personnn
  
  */
   
@@ -109,8 +109,8 @@ class Cat implements IPet {
   /* TEMPLATE
    * 
    * FIELDS:
-     ... this.name ...  --String
-     ... this.kind ...  --String
+     ... this.name ...       --String
+     ... this.kind ...       --String
      ... this.longhaired ... --boolean
      
      METHODS:
@@ -140,8 +140,8 @@ class Dog implements IPet {
   /* TEMPLATE
    * 
    * FIELDS:
-     ... this.name ...  --String
-     ... this.kind ...  --String
+     ... this.name ...       --String
+     ... this.kind ...       --String
      ... this.longhaired ... --boolean
      
      METHODS:
